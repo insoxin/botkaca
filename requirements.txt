@@ -1,4 +1,3 @@
 pyrogram
-asyncio
 tgcrypto
 aria2p
